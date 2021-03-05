@@ -1,0 +1,23 @@
+div#outcome{
+    text-align: left;
+}
+div#a{
+    float: left;
+    padding-right: 50px;
+}
+h2{
+    text-align: center;
+}
+
+div#ans{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 30px;
+    padding-right: 50px;
+}
+
+button{
+    font-size: 15px;
+    width: 75px;
+    height: 25px;
+}
